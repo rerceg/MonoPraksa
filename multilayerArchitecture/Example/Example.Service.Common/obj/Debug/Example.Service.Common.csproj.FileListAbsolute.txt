@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\bin\Debug\Example.Service.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\bin\Debug\Example.Service.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\obj\Debug\Example.Service.Common.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\obj\Debug\Example.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\obj\Debug\Example.Service.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\obj\Debug\Example.Service.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\bin\Debug\Example.Models.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\bin\Debug\Example.Models.dll
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\bin\Debug\Example.Models.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\bin\Debug\Example.Models.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service.Common\obj\Debug\Example.Service.Common.csproj.CopyComplete
