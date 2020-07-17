@@ -1,0 +1,17 @@
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Service.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Service.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Models.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Models.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Repository.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Repository.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Service.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Models.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Models.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Repository.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Repository.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service\bin\Debug\Example.Service.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Service\obj\Debug\Example.Service.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\Example\Example.Service\obj\Debug\Example.Service.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Example\Example.Service\obj\Debug\Example.Service.csproj.CopyComplete
+C:\Users\Laptop\source\repos\Example\Example.Service\obj\Debug\Example.Service.dll
+C:\Users\Laptop\source\repos\Example\Example.Service\obj\Debug\Example.Service.pdb
