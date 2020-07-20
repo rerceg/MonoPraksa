@@ -1,0 +1,9 @@
+C:\Users\Laptop\source\repos\Example\Example.Models\bin\Debug\Example.Models.dll
+C:\Users\Laptop\source\repos\Example\Example.Models\bin\Debug\Example.Models.pdb
+C:\Users\Laptop\source\repos\Example\Example.Models\bin\Debug\Example.Models.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Models\bin\Debug\Example.Models.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Models\obj\Debug\Example.Models.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\Example\Example.Models\obj\Debug\Example.Models.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Example\Example.Models\obj\Debug\Example.Models.csproj.CopyComplete
+C:\Users\Laptop\source\repos\Example\Example.Models\obj\Debug\Example.Models.dll
+C:\Users\Laptop\source\repos\Example\Example.Models\obj\Debug\Example.Models.pdb

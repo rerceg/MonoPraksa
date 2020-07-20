@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\bin\Debug\Example.Repository.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\bin\Debug\Example.Repository.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\bin\Debug\Example.Models.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\bin\Debug\Example.Models.dll
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\bin\Debug\Example.Models.Common.pdb
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\bin\Debug\Example.Models.pdb
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\obj\Debug\Example.Repository.Common.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\obj\Debug\Example.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\obj\Debug\Example.Repository.Common.csproj.CopyComplete
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\obj\Debug\Example.Repository.Common.dll
+C:\Users\Laptop\source\repos\Example\Example.Repository.Common\obj\Debug\Example.Repository.Common.pdb
