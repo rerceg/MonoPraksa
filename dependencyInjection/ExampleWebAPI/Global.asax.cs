@@ -1,14 +1,11 @@
 using Autofac;
 using Autofac.Integration.WebApi;
-using Example.Repository;
-using Example.Repository.Common;
-using Example.Service;
-using Example.Service.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Web;
+using System.Web.Compilation;
 using System.Web.Http;
 using System.Web.Routing;
 
@@ -18,14 +15,16 @@ namespace ExampleWebAPI
     {
         protected void Application_Start()
         {
+            var assemblies = BuildManager.GetReferencedAssemblies().Cast<Assembly>();
             var builder = new ContainerBuilder();
-
             var config = GlobalConfiguration.Configuration;
 
             builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
-
-            builder.RegisterType<DefaultService>().As<IDefaultService>();
-            builder.RegisterType<DefaultRepository>().As<IDefaultRepository>();
+            
+            foreach(var assemblie in assemblies)
+            {
+                builder.RegisterAssemblyModules(assemblie);
+            }
 
             var container = builder.Build();
             config.DependencyResolver = new AutofacWebApiDependencyResolver(container);
