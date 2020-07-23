@@ -4,12 +4,13 @@ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Threading.Tasks;
+using System.Configuration;
 
 namespace Example.Repository
 {
     public class DefaultRepository : IDefaultRepository 
     {
-        private SqlConnection connection = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=WebApiExample;Integrated Security=True");
+        private SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnectionString"].ConnectionString);
         public async Task<List<Person>> SelectAllPersons()
         {
             var list = new List<Person>();
