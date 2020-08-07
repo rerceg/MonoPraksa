@@ -8,9 +8,11 @@ using Example.Models;
 using Example.Service.Common;
 using AutoMapper;
 using System.Threading.Tasks;
+using System.Web.Http.Cors;
 
 namespace ExampleWebAPI.Controllers
 {
+    [EnableCors(origins: "http://localhost:3000", headers: "*", methods: "*")]
     public class DefaultController : ApiController
     {
         protected IDefaultService defaultService
@@ -116,6 +118,8 @@ namespace ExampleWebAPI.Controllers
 
     public class RestPerson
     {
+        public Guid Id
+        { get; set; }
         public string Name
         { get; set; }
 

@@ -184,3 +184,6 @@ C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\obj\Debu
 C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\obj\Debug\Example.WebAPI.csproj.CopyComplete
 C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\obj\Debug\ExampleWebAPI.dll
 C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\obj\Debug\ExampleWebAPI.pdb
+C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\bin\System.Web.Cors.dll
+C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Laptop\Desktop\praksa\GitHub\dependencyInjection\ExampleWebAPI\bin\System.Web.Http.Cors.xml
