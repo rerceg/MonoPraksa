@@ -1,24 +1,21 @@
 import React, { Component } from "react";
 
 class Person extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      name: props.name,
-      surname: props.surname,
-      id: props.id,
-    };
-  }
-
   render() {
     return (
       <div>
         <span>
-          {this.state.name} {this.state.surname}
+          {this.props.person.Name} {this.props.person.Surname}
         </span>
-        <button>Delete</button>
+        <button onClick={() => this.props.onDelete(this.props.person.Id)}>
+          Delete
+        </button>
         <button>Update</button>
-        <button>Receipts</button>
+        <button
+          onClick={() => this.props.getPersonsReceipts(this.props.person.Id)}
+        >
+          Receipts
+        </button>
       </div>
     );
   }

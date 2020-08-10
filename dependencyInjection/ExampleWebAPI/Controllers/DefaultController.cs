@@ -143,6 +143,9 @@ namespace ExampleWebAPI.Controllers
         public decimal Total
         { get; set; }
 
+        public Guid Id
+        { get; set; }
+
         public RestReceipt(DateTime date, decimal total)
         {
             Date = date;

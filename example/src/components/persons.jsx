@@ -1,27 +1,16 @@
 import React, { Component } from "react";
-import axios from "axios";
 import Person from "./person";
 
 class Persons extends Component {
-  constructor() {
-    super();
-    this.state = {
-      persons: [],
-    };
-  }
-
-  componentDidMount() {
-    axios
-      .get("https://localhost:44333/api/Default/Persons")
-      .then((response) => {
-        this.setState({ persons: response.data });
-      });
-  }
-
   render() {
-    let persons = this.state.persons.map((person) => {
+    let persons = this.props.persons.map((person) => {
       return (
-        <Person key={person.Id} name={person.Name} surname={person.Surname} />
+        <Person
+          key={person.Id}
+          person={person}
+          onDelete={this.props.onDelete}
+          getPersonsReceipts={this.props.getPersonsReceipts}
+        />
       );
     });
     return <div>{persons}</div>;
